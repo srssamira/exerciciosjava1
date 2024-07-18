@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio8 {
+public class EighthEx {
     public static void main(String[] args) {
         int n = scan("Escreva um numero: ").nextInt();
         int m = scan("Escreva ate onde quer encontrar seu multiplo: ").nextInt();

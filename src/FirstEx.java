@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio1 {
+public class FirstEx {
     public static void main(String[] args) {
         int n = scan("Escreva um numero: ").nextInt();
         int result = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio9 {
+public class NinthEx {
     public static void main(String[] args) {
         String binario = scan("Escreva um valor binario: ").nextLine();
         int number = Integer.parseInt(binario, 2);

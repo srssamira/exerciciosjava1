@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio6 {
+public class SixthEx {
     public static void main(String[] args) {
         int base = scan("Escreva a base: ").nextInt();
         int exponent = scan("Escreva o expoente: ").nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio5 {
+public class FifthEx {
     public static void main(String[] args) {
         int number = scanner("Escreva um numero: ").nextInt();
         String textNumber = Integer.toString(number); // converter inteiro em caractere

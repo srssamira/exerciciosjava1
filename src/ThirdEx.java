@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio3 {
+public class ThirdEx {
     public static void main(String[] args) {
         int number = scanner("Escreva um numero: ").nextInt();
         String textNumber = Integer.toString(number); // metodo dentro da classe Integer que converte um inteiro para String

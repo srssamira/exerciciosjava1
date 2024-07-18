@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercicio10 {
+public class TenEx {
     public static void main(String[] args) {
         int n = scan("Escreva ate onde voce deseja calcular a sequencia de fibonacci: ").nextInt();
         int fibA = 1, fibB = 0;
